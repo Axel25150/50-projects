@@ -2,5 +2,5 @@
 
 \# | Project | Demo
 ------------ | ------------- | -------------
-01 | [Projet 1](https://github.com/Axel25150/Password-Generator) | [Demo](https://axelvadam.fr/mdp)
-02 | [Projet 2](https://github.com/Axel25150/Password-Strength-Checker) | [Demo](https://axelvadam.fr/checkmdp)
+01 | [Password Generator](https://github.com/Axel25150/Password-Generator) | [Demo](https://axelvadam.fr/mdp)
+02 | [Password Strenght Checker](https://github.com/Axel25150/Password-Strength-Checker) | [Demo](https://axelvadam.fr/checkmdp)
