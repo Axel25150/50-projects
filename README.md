@@ -2,5 +2,5 @@
 
 \# | Project | Demo
 ------------ | ------------- | -------------
-01 | Content from cell 1 | Content from cell 2
+01 | [Projet 1](https://www.youtube.com) | Content from cell 2
 02 | Content in the second column | 1
